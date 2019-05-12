@@ -5,4 +5,6 @@
     <color name="colorAccent">#D81B60</color>
     <color name="dark_blue">#EB6000CC</color>
     <color name="blue">#1E9EF7</color>
+    <color name="login_input_form_detail_light">#1affffff</color>
+    <color name="hint_color">#FFFFFF</color>
 </resources>

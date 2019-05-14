@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login</string>
+    <string name="email_input_text">Email</string>
+    <string name="login_button_text">Entrar</string>
+    <string name="password_input_text">Senha</string>
+</resources>

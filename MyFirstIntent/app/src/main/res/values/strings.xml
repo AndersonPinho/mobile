@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MyFirstIntent</string>
+    <string name="surprise_me">Surprise me</string>
+    <string name="default_greeting">Hello</string>
+    <string name="user_name_not_typed">User\'s name not informed</string>
 </resources>
